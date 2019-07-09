@@ -1,3 +1,3 @@
 # MicroService
-gOOD LINK TO REFER
+Good to refer
 https://github.com/Netflix/Hystrix/wiki/Configuration
