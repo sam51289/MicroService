@@ -7,3 +7,5 @@ Faculty Demo
 http://resources.way2learnonline.com/micro2019/
 
 http://resources.way2learnonline.com/micro/
+
+http://resources.way2learnonline.com/micro2019/
